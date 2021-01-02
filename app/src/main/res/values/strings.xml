@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="games_header">Games</string>
+    <string name="games_paragraph">See below for all your games</string>
+    <string name="add_game_header">Add your game</string>
+    <string name="add_game_button">ADD GAME</string>
+    <string name="item_game_default">DEFAULT GAME</string>
+    <string name="not_valid_game">Game not valid, try again</string>
+    <string name="add_game_title">TITLE</string>
+    <string name="add_game_platform">PLATFORM</string>
+    <string name="add_game_day">DAY</string>
+    <string name="add_game_month">MONTH</string>
+    <string name="add_game_year">YEAR</string>
+
+
+
+</resources>
